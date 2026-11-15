@@ -1,0 +1,11 @@
+# Large raw source files (not needed for deployment)
+reference video.mp4
+invitation  details.pdf
+assets/hero-reference.mp4
+assets/hero-video-4k.tmp.webm
+assets/hero-couple.jpg
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.log
